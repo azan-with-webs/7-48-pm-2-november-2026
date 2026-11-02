@@ -1,0 +1,25 @@
+.container{
+    border: 2px solid black; padding: 10px;
+}
+.header{ background-color: brown ;height: 100px;
+
+}
+.logo{
+    background-color: aquamarine; height: 100px;width: 150px;
+}
+.navbar{
+    background-color:lightcoral; height: 50px;width: 50 ;
+}
+.box{
+    border: 2px solid red;
+}
+.left-section{
+    height: 600px; width: 20%; background-color: blueviolet;
+}
+.right-section{
+height: 600px; width: 20%; background-color: darkblue;
+}
+
+
+
+
